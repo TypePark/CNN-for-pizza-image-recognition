@@ -1,5 +1,3 @@
-# Yet-another-CNN-for-pizza-image-recognition
-The CNN that determines which image is a pizza or not (probably inefficent)
 
       1- create folder named  "Dataset"
       2- add to 2 folder inside to Dataset folder "Train" and "Test"
